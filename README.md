@@ -1,8 +1,4 @@
 - 👋 Hi, I’m @GurviAggarwal
-- 👀 I’m interested in learning from new experiances and increasing my scope of knowledge
-- 🌱 I’m currently learning C++ and Python
-- 💞️ I’m looking to collaborate on projects which excites me and at same time challenges my capabalities
-- 😄 Pronouns: She/Her
 
 
 <!---
